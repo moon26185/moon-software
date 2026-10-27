@@ -1,8 +1,14 @@
 /**
  * Moon Software Hub - Software Data Configuration
  * Generated automatically by Moon Admin Control Panel
- * Last Updated: 10/27/2026, 4:17:52 PM
+ * Last Updated: 10/27/2026, 5:00:30 PM
  */
+
+window.SITE_SETTINGS = {
+  "downloadPassword": "moon@6666",
+  "adminPassword": "moon@6666",
+  "whatsappNumber": "01303726185"
+};
 
 window.SOFTWARE_CATALOG = [
   {
@@ -13,11 +19,12 @@ window.SOFTWARE_CATALOG = [
     "version": "v3.0.4 (Stable Fix)",
     "fileSize": "72.8 MB",
     "fileName": "MoonOra_v3Fix.exe",
-    "icon": "assets/moonora.png",
+    "icon": "assets/logo_old.png",
     "directDownloadPath": "https://github.com/moon26185/moon-software/releases/download/v1.0/MoonOra_v3Fix.exe",
     "badge": "⭐ Latest Fix • Free Direct Download",
     "isRecommended": true,
     "requiresPassword": false,
+    "customPassword": "",
     "isActive": true,
     "tags": [
       "Gmail Automation",
